@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Alaboudi1/hypothesizer-demo/static/css/main.65f1293a.css",
-    "main.js": "/Alaboudi1/hypothesizer-demo/static/js/main.ec1b611e.js",
-    "index.html": "/Alaboudi1/hypothesizer-demo/index.html",
-    "main.65f1293a.css.map": "/Alaboudi1/hypothesizer-demo/static/css/main.65f1293a.css.map",
-    "main.ec1b611e.js.map": "/Alaboudi1/hypothesizer-demo/static/js/main.ec1b611e.js.map"
+    "main.css": "/Alaboudi1/hypothesizerDemo/static/css/main.65f1293a.css",
+    "main.js": "/Alaboudi1/hypothesizerDemo/static/js/main.ec1b611e.js",
+    "index.html": "/Alaboudi1/hypothesizerDemo/index.html",
+    "main.65f1293a.css.map": "/Alaboudi1/hypothesizerDemo/static/css/main.65f1293a.css.map",
+    "main.ec1b611e.js.map": "/Alaboudi1/hypothesizerDemo/static/js/main.ec1b611e.js.map"
   },
   "entrypoints": [
     "static/css/main.65f1293a.css",
